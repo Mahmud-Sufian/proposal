@@ -1,0 +1,26 @@
+body{
+    margin-top: 100px;
+    padding: 100px;
+    background-color: salmon;
+}
+h1{
+    font-size: 40px;
+}
+.button{
+    margin-left: 38%;
+    margin-top: 60px;
+
+}
+.myButton{
+    width: 80px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#myImg{
+    width: 150px;
+    height: 150px;
+
+}
+ 
