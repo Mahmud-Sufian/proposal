@@ -6,6 +6,10 @@ body{
 h1{
     font-size: 40px;
 }
+.container{
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+}
 .button{
     margin-left: 38%;
     margin-top: 60px;
